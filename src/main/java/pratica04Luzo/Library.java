@@ -17,7 +17,7 @@ public class Library {
     
     public boolean someLibraryMethod() {
         ligarInterruptor();
-        //desligarInterruptor();
+        desligarInterruptor();
     	if (interruptor == "on")
         	return true;
         else
